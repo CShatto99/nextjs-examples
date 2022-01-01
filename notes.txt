@@ -1,0 +1,5 @@
+Data Fetching
+  - Pre-rendering functions:
+    1. getStaticProps (static generation): Fetch data at build time
+    2. getStaticPaths (static generation): Specify dynamic routes to pre-render pages based on data
+    3. getServerSideProps (server-side rendering): Fetch data on each request
